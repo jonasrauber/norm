@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "Jonas Rauber"
-description   = "Computes the L2 norm between two image files"
+description   = "Computes different norms between two images"
 license       = "MIT"
 srcDir        = "src"
 bin           = @["norm"]
